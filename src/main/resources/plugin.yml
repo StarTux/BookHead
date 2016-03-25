@@ -1,0 +1,11 @@
+name: BookHead
+description: Make heads from books
+author: StarTux
+version: 0.1
+main: com.winthier.bookhead.BookHeadPlugin
+depend: []
+commands: {}
+permissions:
+  bookhead.create:
+    description: Create a head using a book
+    default: op
